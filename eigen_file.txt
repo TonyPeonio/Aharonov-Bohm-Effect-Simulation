@@ -1,0 +1,193 @@
+Curernt Phi: 0
+
+Hamiltonian with Current Phi: Quantum object: dims=[[4], [4]], shape=(4, 4), type='oper', dtype=CSR, isherm=True
+Qobj data =
+[[0. 1. 0. 1.]
+ [1. 0. 1. 0.]
+ [0. 1. 0. 1.]
+ [1. 0. 1. 0.]]
+Hamiltonian Eigenenergies (Eigenvalues): [-2.0000000e+00  0.0000000e+00  6.9388939e-18  2.0000000e+00]
+Hamiltonian Eigenstates (Eigenvectors): (array([-2.00000000e+00,  0.00000000e+00,  2.66453526e-15,  2.00000000e+00]), array([Quantum object: dims=[[4], [1]], shape=(4, 1), type='ket', dtype=Dense
+       Qobj data =
+       [[ 0.5]
+        [-0.5]
+        [ 0.5]
+        [-0.5]]                                                              ,
+       Quantum object: dims=[[4], [1]], shape=(4, 1), type='ket', dtype=Dense
+       Qobj data =
+       [[ 0.        ]
+        [-0.70710678]
+        [ 0.        ]
+        [ 0.70710678]]                                                       ,
+       Quantum object: dims=[[4], [1]], shape=(4, 1), type='ket', dtype=Dense
+       Qobj data =
+       [[ 7.07106781e-01]
+        [ 3.92523115e-16]
+        [-7.07106781e-01]
+        [ 3.92523115e-16]]                                                   ,
+       Quantum object: dims=[[4], [1]], shape=(4, 1), type='ket', dtype=Dense
+       Qobj data =
+       [[0.5]
+        [0.5]
+        [0.5]
+        [0.5]]                                                               ],
+      dtype=object))
+
+
+
+Curernt Phi: 0.7853981633974483
+
+Hamiltonian with Current Phi: Quantum object: dims=[[4], [4]], shape=(4, 4), type='oper', dtype=CSR, isherm=True
+Qobj data =
+[[0.        +0.j         0.70710678+0.70710678j 0.        +0.j
+  1.        +0.j        ]
+ [0.70710678-0.70710678j 0.        +0.j         1.        +0.j
+  0.        +0.j        ]
+ [0.        +0.j         1.        +0.j         0.        +0.j
+  1.        +0.j        ]
+ [1.        +0.j         0.        +0.j         1.        +0.j
+  0.        +0.j        ]]
+Hamiltonian Eigenenergies (Eigenvalues): [-1.96157056 -0.39018064  0.39018064  1.96157056]
+Hamiltonian Eigenstates (Eigenvectors): (array([-1.96157056, -0.39018064,  0.39018064,  1.96157056]), array([Quantum object: dims=[[4], [1]], shape=(4, 1), type='ket', dtype=Dense
+       Qobj data =
+       [[ 0.5       +0.j        ]
+        [-0.41573481+0.27778512j]
+        [ 0.46193977-0.19134172j]
+        [-0.49039264+0.09754516j]]                                           ,
+       Quantum object: dims=[[4], [1]], shape=(4, 1), type='ket', dtype=Dense
+       Qobj data =
+       [[ 0.5       +0.j        ]
+        [ 0.27778512+0.41573481j]
+        [-0.46193977+0.19134172j]
+        [-0.09754516-0.49039264j]]                                           ,
+       Quantum object: dims=[[4], [1]], shape=(4, 1), type='ket', dtype=Dense
+       Qobj data =
+       [[-0.5       -0.j        ]
+        [ 0.27778512+0.41573481j]
+        [ 0.46193977-0.19134172j]
+        [-0.09754516-0.49039264j]]                                           ,
+       Quantum object: dims=[[4], [1]], shape=(4, 1), type='ket', dtype=Dense
+       Qobj data =
+       [[-0.5       -0.j        ]
+        [-0.41573481+0.27778512j]
+        [-0.46193977+0.19134172j]
+        [-0.49039264+0.09754516j]]                                           ],
+      dtype=object))
+
+
+
+Curernt Phi: 1.5707963267948966
+
+Hamiltonian with Current Phi: Quantum object: dims=[[4], [4]], shape=(4, 4), type='oper', dtype=CSR, isherm=True
+Qobj data =
+[[0.+0.j 0.+1.j 0.+0.j 1.+0.j]
+ [0.-1.j 0.+0.j 1.+0.j 0.+0.j]
+ [0.+0.j 1.+0.j 0.+0.j 1.+0.j]
+ [1.+0.j 0.+0.j 1.+0.j 0.+0.j]]
+Hamiltonian Eigenenergies (Eigenvalues): [-1.84775907 -0.76536686  0.76536686  1.84775907]
+Hamiltonian Eigenstates (Eigenvectors): (array([-1.84775907, -0.76536686,  0.76536686,  1.84775907]), array([Quantum object: dims=[[4], [1]], shape=(4, 1), type='ket', dtype=Dense
+       Qobj data =
+       [[-0.5       -0.j        ]
+        [ 0.19134172-0.46193977j]
+        [-0.35355339+0.35355339j]
+        [ 0.46193977-0.19134172j]]                                           ,
+       Quantum object: dims=[[4], [1]], shape=(4, 1), type='ket', dtype=Dense
+       Qobj data =
+       [[ 0.5       +0.j        ]
+        [ 0.46193977+0.19134172j]
+        [-0.35355339+0.35355339j]
+        [-0.19134172-0.46193977j]]                                           ,
+       Quantum object: dims=[[4], [1]], shape=(4, 1), type='ket', dtype=Dense
+       Qobj data =
+       [[ 0.5       +0.j        ]
+        [-0.46193977-0.19134172j]
+        [-0.35355339+0.35355339j]
+        [ 0.19134172+0.46193977j]]                                           ,
+       Quantum object: dims=[[4], [1]], shape=(4, 1), type='ket', dtype=Dense
+       Qobj data =
+       [[-0.5       -0.j        ]
+        [-0.19134172+0.46193977j]
+        [-0.35355339+0.35355339j]
+        [-0.46193977+0.19134172j]]                                           ],
+      dtype=object))
+
+
+
+Curernt Phi: 2.356194490192345
+
+Hamiltonian with Current Phi: Quantum object: dims=[[4], [4]], shape=(4, 4), type='oper', dtype=CSR, isherm=True
+Qobj data =
+[[ 0.        +0.j         -0.70710678+0.70710678j  0.        +0.j
+   1.        +0.j        ]
+ [-0.70710678-0.70710678j  0.        +0.j          1.        +0.j
+   0.        +0.j        ]
+ [ 0.        +0.j          1.        +0.j          0.        +0.j
+   1.        +0.j        ]
+ [ 1.        +0.j          0.        +0.j          1.        +0.j
+   0.        +0.j        ]]
+Hamiltonian Eigenenergies (Eigenvalues): [-1.66293922 -1.11114047  1.11114047  1.66293922]
+Hamiltonian Eigenstates (Eigenvectors): (array([-1.66293922, -1.11114047,  1.11114047,  1.66293922]), array([Quantum object: dims=[[4], [1]], shape=(4, 1), type='ket', dtype=Dense
+       Qobj data =
+       [[-0.5       -0.j        ]
+        [-0.09754516-0.49039264j]
+        [-0.19134172+0.46193977j]
+        [ 0.41573481-0.27778512j]]                                           ,
+       Quantum object: dims=[[4], [1]], shape=(4, 1), type='ket', dtype=Dense
+       Qobj data =
+       [[-0.5       -0.j        ]
+        [-0.49039264+0.09754516j]
+        [ 0.19134172-0.46193977j]
+        [ 0.27778512+0.41573481j]]                                           ,
+       Quantum object: dims=[[4], [1]], shape=(4, 1), type='ket', dtype=Dense
+       Qobj data =
+       [[ 0.5       +0.j        ]
+        [-0.49039264+0.09754516j]
+        [-0.19134172+0.46193977j]
+        [ 0.27778512+0.41573481j]]                                           ,
+       Quantum object: dims=[[4], [1]], shape=(4, 1), type='ket', dtype=Dense
+       Qobj data =
+       [[ 0.5       +0.j        ]
+        [-0.09754516-0.49039264j]
+        [ 0.19134172-0.46193977j]
+        [ 0.41573481-0.27778512j]]                                           ],
+      dtype=object))
+
+
+
+Curernt Phi: 3.141592653589793
+
+Hamiltonian with Current Phi: Quantum object: dims=[[4], [4]], shape=(4, 4), type='oper', dtype=CSR, isherm=True
+Qobj data =
+[[ 0. -1.  0.  1.]
+ [-1.  0.  1.  0.]
+ [ 0.  1.  0.  1.]
+ [ 1.  0.  1.  0.]]
+Hamiltonian Eigenenergies (Eigenvalues): [-1.41421356 -1.41421356  1.41421356  1.41421356]
+Hamiltonian Eigenstates (Eigenvectors): (array([-1.41421356, -1.41421356,  1.41421356,  1.41421356]), array([Quantum object: dims=[[4], [1]], shape=(4, 1), type='ket', dtype=Dense
+       Qobj data =
+       [[ 0.70710678]
+        [ 0.5       ]
+        [ 0.        ]
+        [-0.5       ]]                                                       ,
+       Quantum object: dims=[[4], [1]], shape=(4, 1), type='ket', dtype=Dense
+       Qobj data =
+       [[ 0.        ]
+        [-0.5       ]
+        [ 0.70710678]
+        [-0.5       ]]                                                       ,
+       Quantum object: dims=[[4], [1]], shape=(4, 1), type='ket', dtype=Dense
+       Qobj data =
+       [[0.        ]
+        [0.5       ]
+        [0.70710678]
+        [0.5       ]]                                                        ,
+       Quantum object: dims=[[4], [1]], shape=(4, 1), type='ket', dtype=Dense
+       Qobj data =
+       [[ 0.70710678]
+        [-0.5       ]
+        [ 0.        ]
+        [ 0.5       ]]                                                       ],
+      dtype=object))
+
+
+
