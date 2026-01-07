@@ -1,0 +1,27 @@
+Quantum Simulation of the Aharonov-Bohm Effect
+
+Overview
+The simulation evolves the system’s quantum state under a Hamiltonian that depends on the magnetic flux (φ) and visualizes the probabilities of the system being in each of the four basis states over time.
+
+Features
+Constructs a 4-state Hamiltonian with phase dependence.
+Evolves the quantum state using time evolution operators.
+Computes and plots probabilities of each state as a function of time for different values of φ.
+Saves plots showing wavefunction evolution for visual inspection.
+Outputs Hamiltonian eigenvalues and eigenstates to a text file.
+
+Installation
+Clone the repository:
+git clone https://github.com/yourusername/aharonov-bohm-simulation.git
+cd aharonov-bohm-simulation
+
+Install dependencies:
+pip install qutip matplotlib numpy
+
+Usage
+Run the simulation script:
+python ab_simulation.py
+
+The script outputs:
+Plots: Probability evolution of each basis state for φ = 0, π/4, π/2, 3π/4, π. Saved as 4b1.png … 4b5.png.
+Eigenvalues/eigenstates: Saved to eigen_file.txt.
